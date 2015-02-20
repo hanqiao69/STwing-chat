@@ -1,0 +1,51 @@
+body{
+    background-color : #72DEE0;
+}
+
+#chat {
+    font-size: 2em;
+    margin-top: 30%;
+    text-align: center;
+    font-family : 'Open Sans', sans-serif; 
+    background-color: 
+}
+
+h1 {
+    text-align : center;
+    font-family : 'Open Sans', sans-serif; 
+    color : #FFF;
+    background-color : #AEDD49;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#messagesDiv{
+    width : 88%;
+    margin-top: 10%;
+    margin-left : 10%;
+    padding : 5px;
+    font-family : 'Open Sans', sans-serif; 
+}
+
+#messagesDiv p {
+    margin : 0;
+    paddng : 0;
+}
+
+#nameInput{
+    margin-top: absolute;
+    margin-left: 12%;
+    width : 20%;
+    
+}
+
+#messageInput{
+    bottom : 5px;
+    width : 55%;
+}
+
+#inputs {
+    text-align: center;
+    bottom : 5px;
+    position : fixed;
+}
